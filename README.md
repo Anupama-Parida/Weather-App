@@ -17,7 +17,7 @@ The app fetches real-time weather data from the API, stores it locally using **C
 - **Architecture:** MVVM  
 - **Networking:** URLSession  
 - **Local Storage:** Core Data  
-- **API:** OpenWeatherMap API  
+- **API:** Open Meteo Weather API  
 
 ### Screenshots of UI
 ### LaunchScreen
