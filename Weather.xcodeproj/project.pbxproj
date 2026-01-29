@@ -35,16 +35,6 @@
 			path = Weather;
 			sourceTree = "<group>";
 		};
-		248D00322F23408800D5A27D /* WeatherTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = WeatherTests;
-			sourceTree = "<group>";
-		};
-		248D003F2F2340B000D5A27D /* WeatherTestsUI */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = WeatherTestsUI;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				248D00212F233F5E00D5A27D /* Weather */,
-				248D00322F23408800D5A27D /* WeatherTests */,
-				248D003F2F2340B000D5A27D /* WeatherTestsUI */,
 				248D00202F233F5E00D5A27D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				248D00362F23408800D5A27D /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				248D00322F23408800D5A27D /* WeatherTests */,
-			);
 			name = WeatherTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				248D00452F2340B000D5A27D /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				248D003F2F2340B000D5A27D /* WeatherTestsUI */,
 			);
 			name = WeatherTestsUI;
 			packageProductDependencies = (
